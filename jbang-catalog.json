@@ -1,0 +1,42 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "wrk2": {
+      "script-ref": "io.hyperfoil:hyperfoil-cli:0.25.2",
+      "dependencies": [
+        "io.hyperfoil:hyperfoil-all:0.25.2@pom",
+        "io.hyperfoil:hyperfoil-api",
+        "io.hyperfoil:hyperfoil-clustering",
+        "io.hyperfoil:hyperfoil-controller-api",
+        "io.hyperfoil:hyperfoil-core",
+        "io.hyperfoil:hyperfoil-http"
+      ],
+      "main": "io.hyperfoil.cli.commands.Wrk2"
+    },
+     "wrk": {
+      "script-ref": "io.hyperfoil:hyperfoil-cli:0.25.2",
+      "dependencies": [
+        "io.hyperfoil:hyperfoil-all:0.25.2@pom",
+        "io.hyperfoil:hyperfoil-api",
+        "io.hyperfoil:hyperfoil-clustering",
+        "io.hyperfoil:hyperfoil-controller-api",
+        "io.hyperfoil:hyperfoil-core",
+        "io.hyperfoil:hyperfoil-http"
+      ],
+      "main": "io.hyperfoil.cli.commands.Wrk"
+    },
+    "cli": {
+      "script-ref": "io.hyperfoil:hyperfoil-cli:0.25.2",
+      "dependencies": [
+        "io.hyperfoil:hyperfoil-all:0.25.2@pom",
+        "io.hyperfoil:hyperfoil-api",
+        "io.hyperfoil:hyperfoil-clustering",
+        "io.hyperfoil:hyperfoil-controller-api",
+        "io.hyperfoil:hyperfoil-core",
+        "io.hyperfoil:hyperfoil-http"
+      ],
+      "main": "io.hyperfoil.cli.HyperfoilCli"
+    }
+  },
+  "templates": {}
+}
