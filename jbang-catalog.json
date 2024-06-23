@@ -36,6 +36,11 @@
         "io.hyperfoil:hyperfoil-http"
       ],
       "main": "io.hyperfoil.cli.HyperfoilCli"
+    },
+    "qDup": {
+      "script-ref": "io.hyperfoil.tools:qDup:0.8.2",
+      "dependencies": [ ],
+      "main": "io.hyperfoil.tools.qdup.QDup"
     }
   },
   "templates": {}
