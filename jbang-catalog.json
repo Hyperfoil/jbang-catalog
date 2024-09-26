@@ -38,7 +38,7 @@
       "main": "io.hyperfoil.cli.HyperfoilCli"
     },
     "qDup": {
-      "script-ref": "io.hyperfoil.tools:qDup:0.8.2",
+      "script-ref": "io.hyperfoil.tools:qDup:0.8.3",
       "dependencies": [ ],
       "main": "io.hyperfoil.tools.qdup.QDup"
     }
