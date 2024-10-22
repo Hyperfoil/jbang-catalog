@@ -15,5 +15,5 @@ jbang wrk2@hyperfoil -t2 -c100 -d30s -R100 --latency http://localhost:8080
 To list all the available scripts in the catalog you can use the following command:
 
 ```shell
-jbang catlog list hyperfoil
+jbang catalog list hyperfoil
 ```
