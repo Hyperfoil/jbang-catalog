@@ -50,7 +50,7 @@
       "main": "io.hyperfoil.cli.commands.LoadAndRun"
     },
     "qDup": {
-      "script-ref": "io.hyperfoil.tools:qDup:0.8.3",
+      "script-ref": "io.hyperfoil.tools:qDup:0.9.1",
       "dependencies": [ ],
       "main": "io.hyperfoil.tools.qdup.QDup"
     }
