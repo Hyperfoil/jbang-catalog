@@ -23,3 +23,8 @@ To list all the available scripts in the catalog you can use the following comma
 ```bash
 jbang catalog list hyperfoil
 ```
+
+## Versioning
+
+The versioning follows the [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil/tags) load driver scheme, i.e., catalog version `0.27.1`
+is using Hyperfoil of the same version, `0.27.1`.
