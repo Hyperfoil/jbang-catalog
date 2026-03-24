@@ -28,3 +28,7 @@ jbang catalog list hyperfoil
 
 The versioning follows the [Hyperfoil](https://github.com/Hyperfoil/Hyperfoil/tags) load driver scheme, i.e., catalog version `0.27.1`
 is using Hyperfoil of the same version, `0.27.1`.
+
+## Issues
+
+When needed, open an issue on https://github.com/Hyperfoil/Hyperfoil/issues
