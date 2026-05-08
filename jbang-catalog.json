@@ -33,7 +33,8 @@
         "io.hyperfoil:hyperfoil-clustering",
         "io.hyperfoil:hyperfoil-controller-api",
         "io.hyperfoil:hyperfoil-core",
-        "io.hyperfoil:hyperfoil-http"
+        "io.hyperfoil:hyperfoil-http",
+        "io.hyperfoil:hyperfoil-hotrod"
       ],
       "main": "io.hyperfoil.cli.HyperfoilCli"
     },
@@ -45,7 +46,8 @@
         "io.hyperfoil:hyperfoil-clustering",
         "io.hyperfoil:hyperfoil-controller-api",
         "io.hyperfoil:hyperfoil-core",
-        "io.hyperfoil:hyperfoil-http"
+        "io.hyperfoil:hyperfoil-http",
+        "io.hyperfoil:hyperfoil-hotrod"
       ],
       "main": "io.hyperfoil.cli.commands.LoadAndRun"
     },
